@@ -1,4 +1,5 @@
 # Docker Security
+> An ongoing & curated collection of awesome software, libraries and frameworks, best guidelines and technical resources and cool stuff about Docker Security.
 
 
 ## Table of Contents
