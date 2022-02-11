@@ -7,7 +7,6 @@ Docker is a software platform that allows you to build, test, and deploy applica
 
 Docker containers are, by default, quite secure; especially if you run your processes as non-privileged users inside the container. You can add an extra layer of safety by enabling AppArmor, SELinux, GRSEC, or another appropriate hardening system.
 
-![docker-security](https://github.com/paulveillard/cybersecurity-docker-security/blob/main/img/selected_docker_layers.png)
 
 
 ## Table of Contents
@@ -113,3 +112,13 @@ Docker containers are, by default, quite secure; especially if you run your proc
 ## [Contributing](contributing.md)
 
 Your contributions are always welcome.
+
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
+
+[Back to top](#tables-of-contents)
